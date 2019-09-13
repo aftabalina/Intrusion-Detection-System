@@ -1,0 +1,3 @@
+In the slides the ideal curve ran through the y axis and then through x = 100.
+
+The algorithm excluding feature 2 peforms the best because it is closest to the y-axis which means it has the least false positives.
